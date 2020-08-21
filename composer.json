@@ -1,0 +1,19 @@
+{
+  "name": "dtfreeman/Yii2Lightning",
+  "description": "description",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "administrator",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "dtfreeman\\yii2lightning\\": ""
+    }
+  }
+}
