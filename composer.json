@@ -1,5 +1,5 @@
 {
-  "name": "dtfreeman/Yii2Lightning",
+  "name": "qwenode/yii2lightning",
   "description": "description",
   "license": "MIT",
   "authors": [
@@ -13,7 +13,7 @@
   },
   "autoload": {
     "psr-4": {
-      "dtfreeman\\yii2lightning\\": ""
+      "qwenode\\yii2lightning\\": ""
     }
   }
 }

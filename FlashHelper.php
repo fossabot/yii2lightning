@@ -1,5 +1,5 @@
 <?php
-namespace dtfreeman\yii2lightning;
+namespace qwenode\yii2lightning;
 
 
 class FlashHelper
