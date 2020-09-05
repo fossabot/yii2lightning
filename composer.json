@@ -13,7 +13,7 @@
   },
   "autoload": {
     "psr-4": {
-      "qwenode\\yii2lightning\\": ""
+      "qwenode\\yii2lightning\\": "src/"
     }
   }
 }
